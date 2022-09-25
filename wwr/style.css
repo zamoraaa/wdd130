@@ -1,0 +1,34 @@
+#background {
+    height: 725px;
+}
+body {
+    background-color: #84a59d; 
+}
+header {
+    background-color:#f7ede2;
+}
+nav a:hover {
+    background-color: #f28482;
+}
+nav a:hover {
+    background-color: #f28482;
+    color: #d9c2a3;
+}   
+.icon {
+    width: 80px;
+}
+    
+nav a {
+    text-align: center;
+    color: #fcfbfb;
+    text-decoration: none;
+}    
+ 
+footer p {
+    font-size: 1.2em;
+}  
+ 
+footer p a:hover {
+    text-decoration: underline;
+}    
+    
